@@ -1,0 +1,1461 @@
+rule_id,severity,table_name,company_id,year,message
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,2013-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,2014-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,2015-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,2016-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,2017-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,2018-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,2019-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,2020-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,2021-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,2022-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,2023-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,2024-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,PARSE_ERROR,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,profitandloss,AMBUJACEM,PARSE_ERROR,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,profitandloss,HCLTECH,PARSE_ERROR,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,profitandloss,SHREECEM,PARSE_ERROR,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,2013-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,2014-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,2015-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,2016-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,2017-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,2018-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,2019-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,2020-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,2021-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,2022-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,2023-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,2024-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,2024-09,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,PNB,2013-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,PNB,2014-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,PNB,2015-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,PNB,2016-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,PNB,2017-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,PNB,2018-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,PNB,2019-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,PNB,2020-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,PNB,2021-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,PNB,2022-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,PNB,2023-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,PNB,2024-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,POWERGRID,2013-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,POWERGRID,2014-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,POWERGRID,2015-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,POWERGRID,2016-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,POWERGRID,2017-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,POWERGRID,2018-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,POWERGRID,2019-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,POWERGRID,2020-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,POWERGRID,2021-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,POWERGRID,2022-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,POWERGRID,2023-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,POWERGRID,2024-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,POWERGRID,2024-09,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,TECHM,2013-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,TECHM,2014-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,TECHM,2015-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,TECHM,2016-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,TECHM,2017-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,TECHM,2018-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,TECHM,2019-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,TECHM,2020-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,TECHM,2021-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,TECHM,2022-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,TECHM,2023-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,TECHM,2024-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,balancesheet,TECHM,2024-09,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,TCS,2013-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,TCS,2014-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,TCS,2015-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,TCS,2016-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,TCS,2017-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,TCS,2018-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,TCS,2019-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,TCS,2020-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,TCS,2021-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,TCS,2022-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,TCS,2023-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,TCS,2024-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,ABB,2014-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,ABB,2015-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,ABB,2016-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,ABB,2017-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,ABB,2018-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,ABB,2019-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,ABB,2020-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,ABB,2021-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,ABB,2022-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,ABB,2023-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,ABB,2024-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,2013-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,2014-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,2015-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,2016-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,2017-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,2018-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,2019-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,2020-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,2021-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,2022-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,2023-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,2024-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ABB,2014-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ABB,2015-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ABB,2016-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ABB,2017-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ABB,2018-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ABB,2019-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ABB,2020-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ABB,2021-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ABB,2022-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ABB,2023-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ABB,2024-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,2013-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,2014-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,2015-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,2016-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,2017-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,2018-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,2019-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,2020-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,2021-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,2022-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,2023-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,2024-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,2013-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,2014-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,2015-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,2016-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,2017-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,2018-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,2019-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,2020-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,2021-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,2022-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,2023-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,2024-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,2013-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,2014-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,2015-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,2016-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,2017-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,2018-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,2019-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,2020-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,2021-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,2022-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,2023-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,2024-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,PNB,2013-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,PNB,2014-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,PNB,2015-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,PNB,2016-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,PNB,2017-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,PNB,2018-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,PNB,2019-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,PNB,2020-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,PNB,2021-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,PNB,2022-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,PNB,2023-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,PNB,2024-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,POWERGRID,2013-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,POWERGRID,2014-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,POWERGRID,2015-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,POWERGRID,2016-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,POWERGRID,2017-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,POWERGRID,2018-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,POWERGRID,2019-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,POWERGRID,2020-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,POWERGRID,2021-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,POWERGRID,2022-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,POWERGRID,2023-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,POWERGRID,2024-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,TECHM,2013-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,TECHM,2014-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,TECHM,2015-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,TECHM,2016-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,TECHM,2017-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,TECHM,2018-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,TECHM,2019-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,TECHM,2020-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,TECHM,2021-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,TECHM,2022-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,TECHM,2023-03,Duplicate company_id/year combination detected.
+DQ-02,CRITICAL,financial_ratios,TECHM,2024-03,Duplicate company_id/year combination detected.
+DQ-03,CRITICAL,analysis,WIPRO,,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,analysis,WIPRO,,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,analysis,WIPRO,,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,analysis,WIPRO,,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2024-05,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZOMATO,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZOMATO,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZOMATO,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZOMATO,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZOMATO,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZOMATO,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZOMATO,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ZOMATO,2024-05,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,WIPRO,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,WIPRO,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,WIPRO,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,WIPRO,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,WIPRO,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,WIPRO,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,WIPRO,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,WIPRO,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,WIPRO,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,WIPRO,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,WIPRO,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,WIPRO,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,WIPRO,2024-05,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,VEDL,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,VEDL,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,VEDL,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,VEDL,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,VEDL,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,VEDL,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,VEDL,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,VEDL,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,VEDL,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,VEDL,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,VEDL,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,VEDL,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,VEDL,2024-05,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2024-05,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2024-09,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,AGTL,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,AGTL,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,AGTL,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,AGTL,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,AGTL,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,AGTL,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,AGTL,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNIONBANK,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNIONBANK,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNIONBANK,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNIONBANK,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNIONBANK,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNIONBANK,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNIONBANK,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNIONBANK,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNIONBANK,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNIONBANK,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNIONBANK,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNIONBANK,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNITDSPR,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNITDSPR,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNITDSPR,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNITDSPR,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNITDSPR,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNITDSPR,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNITDSPR,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNITDSPR,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNITDSPR,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNITDSPR,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNITDSPR,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,UNITDSPR,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VBL,2012-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VBL,2013-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VBL,2014-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VBL,2015-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VBL,2016-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VBL,2017-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VBL,2018-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VBL,2019-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VBL,2020-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VBL,2021-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VBL,2022-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VBL,2023-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VEDL,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VEDL,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VEDL,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VEDL,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VEDL,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VEDL,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VEDL,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VEDL,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VEDL,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VEDL,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VEDL,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,VEDL,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,WIPRO,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,WIPRO,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,WIPRO,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,WIPRO,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,WIPRO,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,WIPRO,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,WIPRO,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,WIPRO,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,WIPRO,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,WIPRO,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,WIPRO,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,WIPRO,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZOMATO,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZOMATO,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZOMATO,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZOMATO,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZOMATO,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2012-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2011-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2010-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ULTRACEMCO,2009-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2012-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2011-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2010-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNIONBANK,2009-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2012-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2011-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2010-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,UNITDSPR,2009-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2012-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2011-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2010-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VBL,2009-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2012-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2011-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2010-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,VEDL,2009-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2012-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2011-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2010-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,WIPRO,2009-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2012-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2011-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2010-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZOMATO,2009-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2012-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2011-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2010-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,documents,ZYDUSLIFE,2009-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,PARSE_ERROR,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNIONBANK,PARSE_ERROR,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,UNITDSPR,PARSE_ERROR,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VBL,2012-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VBL,2013-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VBL,2014-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VBL,2015-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VBL,2016-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VBL,2017-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VBL,2018-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VBL,2019-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VBL,2020-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VBL,2021-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VBL,2022-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VBL,2023-12,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VBL,PARSE_ERROR,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VEDL,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VEDL,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VEDL,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VEDL,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VEDL,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VEDL,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VEDL,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VEDL,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VEDL,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VEDL,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VEDL,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VEDL,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,VEDL,PARSE_ERROR,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,WIPRO,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,WIPRO,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,WIPRO,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,WIPRO,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,WIPRO,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,WIPRO,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,WIPRO,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,WIPRO,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,WIPRO,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,WIPRO,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,WIPRO,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,WIPRO,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,WIPRO,PARSE_ERROR,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZOMATO,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZOMATO,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZOMATO,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZOMATO,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZOMATO,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZOMATO,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZOMATO,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZOMATO,PARSE_ERROR,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2013-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2014-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2015-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2016-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2017-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2018-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2019-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2020-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2021-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2022-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2023-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2024-03,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,PARSE_ERROR,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,prosandcons,WIPRO,,Foreign key company_id not found in companies.id.
+DQ-03,CRITICAL,prosandcons,WIPRO,,Foreign key company_id not found in companies.id.
+DQ-05,WARNING,profitandloss,ADANIENSOL,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,AXISBANK,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,AXISBANK,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,AXISBANK,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,AXISBANK,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,AXISBANK,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,AXISBANK,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,AXISBANK,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,AXISBANK,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,AXISBANK,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,AXISBANK,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,AXISBANK,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,AXISBANK,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,AXISBANK,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BAJFINANCE,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BAJFINANCE,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BAJFINANCE,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BAJFINANCE,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BAJFINANCE,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BAJFINANCE,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BAJFINANCE,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BAJFINANCE,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BAJFINANCE,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BAJFINANCE,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BAJFINANCE,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BANKBARODA,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BANKBARODA,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BANKBARODA,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BANKBARODA,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BANKBARODA,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BANKBARODA,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BANKBARODA,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BANKBARODA,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BANKBARODA,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BANKBARODA,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BANKBARODA,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BANKBARODA,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,BANKBARODA,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CANBK,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CANBK,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CANBK,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CANBK,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CANBK,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CANBK,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CANBK,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CANBK,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CANBK,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CANBK,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CANBK,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CANBK,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CANBK,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CHOLAFIN,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CHOLAFIN,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CHOLAFIN,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CHOLAFIN,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CHOLAFIN,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CHOLAFIN,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CHOLAFIN,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CHOLAFIN,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CHOLAFIN,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CHOLAFIN,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CHOLAFIN,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CHOLAFIN,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CHOLAFIN,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CIPLA,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CIPLA,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CIPLA,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CIPLA,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CIPLA,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CIPLA,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CIPLA,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CIPLA,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CIPLA,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CIPLA,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CIPLA,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CIPLA,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,CIPLA,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,COALINDIA,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,COALINDIA,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,COALINDIA,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,COALINDIA,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,COALINDIA,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,COALINDIA,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,COALINDIA,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,COALINDIA,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,COALINDIA,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,COALINDIA,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,COALINDIA,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,COALINDIA,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,COALINDIA,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCBANK,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCBANK,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCBANK,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCBANK,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCBANK,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCBANK,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCBANK,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCBANK,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCBANK,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCBANK,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCBANK,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCBANK,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCBANK,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCLIFE,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCLIFE,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCLIFE,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCLIFE,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCLIFE,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCLIFE,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCLIFE,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCLIFE,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCLIFE,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCLIFE,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCLIFE,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCLIFE,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HDFCLIFE,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HEROMOTOCO,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDALCO,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDALCO,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDALCO,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDALCO,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDALCO,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDALCO,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDALCO,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDALCO,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDALCO,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDALCO,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDALCO,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDALCO,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDALCO,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDUNILVR,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDUNILVR,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDUNILVR,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDUNILVR,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDUNILVR,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDUNILVR,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDUNILVR,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDUNILVR,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDUNILVR,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDUNILVR,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDUNILVR,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDUNILVR,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,HINDUNILVR,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIBANK,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIBANK,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIBANK,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIBANK,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIBANK,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIBANK,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIBANK,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIBANK,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIBANK,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIBANK,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIBANK,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIBANK,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIBANK,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIGI,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIGI,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIGI,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIGI,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIGI,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIGI,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIGI,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIGI,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIGI,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIGI,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIGI,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIGI,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIGI,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIPRULI,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIPRULI,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIPRULI,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIPRULI,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIPRULI,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIPRULI,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIPRULI,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIPRULI,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIPRULI,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIPRULI,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIPRULI,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIPRULI,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,ICICIPRULI,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDUSINDBK,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDUSINDBK,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDUSINDBK,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDUSINDBK,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDUSINDBK,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDUSINDBK,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDUSINDBK,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDUSINDBK,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDUSINDBK,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDUSINDBK,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDUSINDBK,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDUSINDBK,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDUSINDBK,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,JIOFIN,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,KOTAKBANK,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,KOTAKBANK,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,KOTAKBANK,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,KOTAKBANK,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,KOTAKBANK,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,KOTAKBANK,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,KOTAKBANK,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,KOTAKBANK,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,KOTAKBANK,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,KOTAKBANK,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,KOTAKBANK,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,KOTAKBANK,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,KOTAKBANK,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,SUNPHARMA,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDIGO,2013-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDIGO,2014-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDIGO,2015-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDIGO,2016-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDIGO,2017-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDIGO,2018-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDIGO,2019-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDIGO,2020-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDIGO,2021-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDIGO,2022-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDIGO,2023-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDIGO,2024-03,Operating profit margin does not match operating_profit / sales.
+DQ-05,WARNING,profitandloss,INDIGO,PARSE_ERROR,Operating profit margin does not match operating_profit / sales.
+DQ-06,WARNING,profitandloss,ADANIENSOL,2014-03,Sales must be positive.
+DQ-07,CRITICAL,profitandloss,ABB,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ADANIENSOL,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ADANIENT,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ADANIGREEN,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ADANIPORTS,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ADANIPORTS,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ADANIPOWER,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,AMBUJACEM,Mar 2023 15,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,AMBUJACEM,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,APOLLOHOSP,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ASIANPAINT,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ATGL,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,BAJAJ-AUTO,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,AXISBANK,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,BAJAJFINSV,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,BAJAJHLDNG,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,BAJFINANCE,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,BANKBARODA,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,BHARTIARTL,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,BEL,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,BHEL,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,BOSCHLTD,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,BPCL,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,BRITANNIA,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,CANBK,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,CHOLAFIN,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,CIPLA,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,COALINDIA,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,DABUR,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,DIVISLAB,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,DLF,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,DMART,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,DRREDDY,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,EICHERMOT,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,GAIL,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,GODREJCP,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,GRASIM,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,HAL,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,HAVELLS,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,HCLTECH,Mar 2016 9m,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,HCLTECH,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,HDFCBANK,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,HDFCLIFE,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,HEROMOTOCO,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,HINDALCO,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,HINDUNILVR,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ICICIBANK,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ICICIGI,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ICICIPRULI,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,INDUSINDBK,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,INFY,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,IOC,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,IRCTC,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,IRFC,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ITC,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,JINDALSTEL,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,JIOFIN,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,JSWENERGY,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,JSWSTEEL,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,KOTAKBANK,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,LICI,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,LODHA,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,LT,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,LTIM,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,M&M,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,MARUTI,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,MOTHERSON,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,NAUKRI,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,NESTLEIND,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,NHPC,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,NTPC,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ONGC,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,PFC,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,PIDILITIND,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,PNB,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,POWERGRID,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,RECLTD,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,RELIANCE,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,SBILIFE,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,SBIN,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,SHREECEM,Mar 2016 9m,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,SHREECEM,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,SHRIRAMFIN,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,SUNPHARMA,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,TATACONSUM,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,TATAMOTORS,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,TATAPOWER,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,TATASTEEL,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,TCS,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,TECHM,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,TITAN,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,TORNTPHARM,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,TRENT,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,TVSMOTOR,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ULTRACEMCO,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,UNIONBANK,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,UNITDSPR,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,VBL,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,VEDL,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,WIPRO,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ZOMATO,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,ZYDUSLIFE,TTM,Year value could not be normalized.
+DQ-07,CRITICAL,profitandloss,INDIGO,TTM,Year value could not be normalized.
+DQ-09,WARNING,cashflow,TVSMOTOR,2022-03,Cash flow components do not reconcile to net cash flow.
+DQ-11,WARNING,profitandloss,ADANIENT,2014-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,ADANIGREEN,2017-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,ADANIGREEN,2018-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,ADANIGREEN,2019-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,ADANIPOWER,2014-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,ADANIPOWER,2016-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,ADANIPOWER,2017-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,ADANIPOWER,2023-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,AMBUJACEM,2018-12,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,APOLLOHOSP,2018-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,AXISBANK,2018-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,AXISBANK,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,BANKBARODA,2016-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,BANKBARODA,2018-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,BANKBARODA,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,BANKBARODA,2021-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,BHARTIARTL,2014-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,BHARTIARTL,2019-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,BHARTIARTL,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,BHARTIARTL,2021-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,BHEL,2016-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,BHEL,2018-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,BHEL,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,BHEL,2021-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,BHEL,2024-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,CANBK,2016-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,CANBK,2018-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,CANBK,2019-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,DLF,2014-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,DLF,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,DRREDDY,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,GODREJCP,2019-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,GODREJCP,2024-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,GRASIM,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,HDFCLIFE,2024-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,HINDALCO,2015-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,HINDALCO,2016-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,IOC,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,IRFC,2013-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,JINDALSTEL,2015-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,JINDALSTEL,2016-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,JINDALSTEL,2017-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,JINDALSTEL,2018-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,JINDALSTEL,2019-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,JSWENERGY,2018-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,JSWSTEEL,2014-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,JSWSTEEL,2016-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,JSWSTEEL,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,LICI,2019-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,LICI,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,LICI,2021-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,LICI,2022-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,LODHA,2021-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,LODHA,2023-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,M&M,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,MOTHERSON,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,NAUKRI,2015-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,NAUKRI,2017-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,NAUKRI,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,NAUKRI,2023-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,NHPC,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,NHPC,2022-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,NTPC,2016-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,NTPC,2019-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,PNB,2016-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,PNB,2018-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,PNB,2019-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,POWERGRID,2019-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,SBIN,2017-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,SBIN,2018-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,SHREECEM,2015-06,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TATACONSUM,2016-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TATAMOTORS,2019-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TATAMOTORS,2024-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TATAPOWER,2013-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TATAPOWER,2014-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TATAPOWER,2015-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TATASTEEL,2013-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TATASTEEL,2015-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TATASTEEL,2016-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TATASTEEL,2017-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TATASTEEL,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TATASTEEL,2024-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TRENT,2013-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TRENT,2014-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TRENT,2021-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,TRENT,2022-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,ULTRACEMCO,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,UNIONBANK,2017-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,UNIONBANK,2018-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,UNIONBANK,2019-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,UNIONBANK,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,UNIONBANK,2021-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,UNITDSPR,2013-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,UNITDSPR,2016-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,VBL,2012-12,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,VBL,2013-12,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,VBL,2014-12,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,VEDL,2013-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,VEDL,2014-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,VEDL,2016-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,VEDL,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,VEDL,2024-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,ZOMATO,2023-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,ZOMATO,2024-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,INDIGO,2019-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,INDIGO,2020-03,Tax percentage must be between 0 and 60.
+DQ-11,WARNING,profitandloss,INDIGO,2024-03,Tax percentage must be between 0 and 60.
+DQ-12,WARNING,profitandloss,BHARTIARTL,2019-03,Dividend payout must not exceed 200.
+DQ-12,WARNING,profitandloss,BRITANNIA,2021-03,Dividend payout must not exceed 200.
+DQ-12,WARNING,profitandloss,M&M,2020-03,Dividend payout must not exceed 200.
+DQ-12,WARNING,profitandloss,SBIN,2017-03,Dividend payout must not exceed 200.
+DQ-12,WARNING,profitandloss,TATAPOWER,2015-03,Dividend payout must not exceed 200.
+DQ-12,WARNING,profitandloss,VEDL,2023-03,Dividend payout must not exceed 200.
+DQ-12,WARNING,profitandloss,VEDL,2024-03,Dividend payout must not exceed 200.
+DQ-13,WARNING,documents,ADANIENSOL,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIENSOL,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIENSOL,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIENSOL,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIENSOL,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIENSOL,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIENSOL,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIENT,2011-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,ADANIENT,2010-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,ADANIENT,2009-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,ADANIGREEN,2017-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIGREEN,2016-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIGREEN,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIGREEN,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIGREEN,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIGREEN,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIGREEN,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIGREEN,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIGREEN,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIPORTS,2019-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIPORTS,2018-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIPORTS,2017-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIPORTS,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIPORTS,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIPORTS,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIPORTS,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIPORTS,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIPORTS,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIPOWER,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIPOWER,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIPOWER,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIPOWER,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIPOWER,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ADANIPOWER,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,AMBUJACEM,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,AMBUJACEM,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,AMBUJACEM,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,AMBUJACEM,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,AMBUJACEM,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,APOLLOHOSP,2019-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,APOLLOHOSP,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,APOLLOHOSP,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,APOLLOHOSP,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ASIANPAINT,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ASIANPAINT,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ASIANPAINT,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ASIANPAINT,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ATGL,2018-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ATGL,2017-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ATGL,2016-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ATGL,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ATGL,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ATGL,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ATGL,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ATGL,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ATGL,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ATGL,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,AXISBANK,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,AXISBANK,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,BAJAJ-AUTO,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,BAJAJ-AUTO,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,BAJAJ-AUTO,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,BAJAJFINSV,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,BAJAJFINSV,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,BAJAJHLDNG,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,BAJAJHLDNG,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,BAJFINANCE,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,BAJFINANCE,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,BANKBARODA,2010-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BANKBARODA,2009-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BEL,2022-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BEL,2019-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BEL,2015-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BEL,2012-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BEL,2011-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BEL,2010-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BEL,2009-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BHARTIARTL,2021-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BHARTIARTL,2018-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BHARTIARTL,2011-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BHARTIARTL,2010-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BHARTIARTL,2009-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BHEL,2015-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BHEL,2014-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BHEL,2013-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BHEL,2012-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BHEL,2011-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BHEL,2010-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BHEL,2009-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BOSCHLTD,2019-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BOSCHLTD,2018-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BOSCHLTD,2017-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BOSCHLTD,2014-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BOSCHLTD,2013-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BOSCHLTD,2012-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BOSCHLTD,2011-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BOSCHLTD,2010-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BOSCHLTD,2009-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BPCL,2022-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BPCL,2019-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BPCL,2016-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BPCL,2015-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BPCL,2010-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BPCL,2009-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,BRITANNIA,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,BRITANNIA,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,CANBK,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,CANBK,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,CHOLAFIN,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,CHOLAFIN,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,CHOLAFIN,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,CIPLA,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,CIPLA,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,COALINDIA,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,DABUR,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,DABUR,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,DLF,2018-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,DLF,2017-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,DLF,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,DLF,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,DMART,2016-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,DMART,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,DMART,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,DMART,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,DMART,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,DMART,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,DMART,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,DMART,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,DRREDDY,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,DRREDDY,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,DRREDDY,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,EICHERMOT,2019-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,EICHERMOT,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,EICHERMOT,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,GAIL,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,GAIL,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,GODREJCP,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,GODREJCP,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,GRASIM,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,GRASIM,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HAL,2011-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,HAL,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HAVELLS,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HAVELLS,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HCLTECH,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HCLTECH,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HCLTECH,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HDFCBANK,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HDFCBANK,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HDFCBANK,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HDFCBANK,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HDFCLIFE,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HDFCLIFE,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HDFCLIFE,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HDFCLIFE,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HDFCLIFE,2008-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HEROMOTOCO,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HEROMOTOCO,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HINDALCO,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HINDALCO,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HINDUNILVR,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,HINDUNILVR,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ICICIBANK,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ICICIGI,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ICICIPRULI,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ICICIPRULI,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ICICIPRULI,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,INDIGO,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,INDIGO,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,INDIGO,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,INDIGO,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,INDIGO,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,INDIGO,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,INDIGO,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,INDUSINDBK,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,INDUSINDBK,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,INFY,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,INFY,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IOC,2024-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IOC,2023-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IOC,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IOC,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRCTC,2019-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRCTC,2018-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRCTC,2017-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRCTC,2016-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRCTC,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRCTC,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRCTC,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRCTC,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRCTC,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRCTC,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRCTC,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRFC,2020-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRFC,2019-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRFC,2018-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRFC,2017-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRFC,2016-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRFC,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRFC,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRFC,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRFC,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRFC,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRFC,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,IRFC,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ITC,2011-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,ITC,2010-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,ITC,2009-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,JINDALSTEL,2010-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,JINDALSTEL,2009-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,JIOFIN,2023-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JIOFIN,2022-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JIOFIN,2021-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JIOFIN,2020-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JIOFIN,2019-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JIOFIN,2018-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JIOFIN,2017-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JIOFIN,2016-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JIOFIN,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JIOFIN,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JIOFIN,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JIOFIN,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JIOFIN,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JIOFIN,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JIOFIN,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JSWENERGY,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JSWENERGY,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JSWENERGY,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JSWSTEEL,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,JSWSTEEL,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,KOTAKBANK,2023-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,KOTAKBANK,2022-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,KOTAKBANK,2021-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,KOTAKBANK,2017-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,KOTAKBANK,2016-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,KOTAKBANK,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,KOTAKBANK,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,KOTAKBANK,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,KOTAKBANK,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,KOTAKBANK,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,KOTAKBANK,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LICI,2018-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LICI,2017-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LICI,2016-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LICI,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LICI,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LICI,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LICI,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LICI,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LICI,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LICI,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LODHA,2020-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LODHA,2019-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LODHA,2018-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LODHA,2017-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LODHA,2016-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LODHA,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LODHA,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LODHA,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LODHA,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LODHA,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LODHA,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LODHA,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LT,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LT,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LTIM,2016-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LTIM,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LTIM,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LTIM,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LTIM,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LTIM,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LTIM,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,LTIM,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,M&M,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,M&M,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,MARUTI,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,MARUTI,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,MOTHERSON,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,MOTHERSON,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,NAUKRI,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,NAUKRI,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,NESTLEIND,2023-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,NHPC,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,NHPC,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,NTPC,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,NTPC,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ONGC,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ONGC,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ONGC,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,PFC,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,PFC,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,PIDILITIND,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,PIDILITIND,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,PIDILITIND,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,PNB,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,PNB,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,POWERGRID,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,POWERGRID,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,RECLTD,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,RECLTD,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,RECLTD,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,RELIANCE,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,RELIANCE,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,RELIANCE,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SBILIFE,2017-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SBILIFE,2016-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SBILIFE,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SBILIFE,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SBILIFE,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SBILIFE,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SBILIFE,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SBILIFE,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SBILIFE,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SBIN,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SHREECEM,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SHREECEM,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SHREECEM,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SHRIRAMFIN,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SHRIRAMFIN,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SHRIRAMFIN,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SIEMENS,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SIEMENS,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,SUNPHARMA,2011-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,SUNPHARMA,2010-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,SUNPHARMA,2009-03,Annual_Report URL is missing.
+DQ-13,WARNING,documents,TATACONSUM,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TATACONSUM,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TATAMOTORS,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TATAMOTORS,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TATAPOWER,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TATAPOWER,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TATASTEEL,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TATASTEEL,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TCS,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TCS,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TECHM,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TECHM,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TECHM,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TECHM,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TITAN,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TITAN,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TITAN,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TORNTPHARM,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TORNTPHARM,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TRENT,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TRENT,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TVSMOTOR,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,TVSMOTOR,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ULTRACEMCO,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ULTRACEMCO,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ULTRACEMCO,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,UNIONBANK,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,UNIONBANK,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,UNITDSPR,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,UNITDSPR,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,UNITDSPR,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,VBL,2024-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,VBL,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,VBL,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,VBL,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,VBL,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,VBL,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,VBL,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,VBL,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,VEDL,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,VEDL,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,WIPRO,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,WIPRO,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ZOMATO,2021-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ZOMATO,2020-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ZOMATO,2019-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ZOMATO,2018-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ZOMATO,2017-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ZOMATO,2016-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ZOMATO,2015-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ZOMATO,2014-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ZOMATO,2013-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ZOMATO,2012-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ZOMATO,2011-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ZOMATO,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ZOMATO,2009-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ZYDUSLIFE,2010-03,Annual_Report URL is invalid.
+DQ-13,WARNING,documents,ZYDUSLIFE,2009-03,Annual_Report URL is invalid.
