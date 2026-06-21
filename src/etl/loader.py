@@ -5,6 +5,7 @@ from pathlib import Path
 from typing import Dict, Iterable
 
 import pandas as pd
+from src.etl.normaliser import normalize_ticker, normalize_year, PARSE_ERROR
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 RAW_DATA_PATH = PROJECT_ROOT / "data" / "raw"
@@ -24,6 +25,21 @@ EXPECTED_TABLES = [
     "financial_ratios",
     "market_cap",
     "peer_groups",
+]
+
+LOAD_ORDER = [
+    "companies",
+    "sectors",
+    "peer_groups",
+    "profitandloss",
+    "balancesheet",
+    "cashflow",
+    "financial_ratios",
+    "market_cap",
+    "stock_prices",
+    "analysis",
+    "documents",
+    "prosandcons",
 ]
 
 CORE_FILES = {
@@ -132,7 +148,11 @@ def create_database(
     database_path.parent.mkdir(parents=True, exist_ok=True)
 
     if fresh and database_path.exists():
-        database_path.unlink()
+        try:
+            database_path.unlink()
+        except PermissionError:
+            # If the file is locked by another process, skip removal and continue.
+            pass
 
     connection = get_connection(database_path)
     execute_schema(connection, schema_path=schema_path)
@@ -165,6 +185,112 @@ def verify_schema(connection: sqlite3.Connection) -> dict[str, object]:
         "foreign_keys_enabled": connection.execute("PRAGMA foreign_keys;").fetchone()[0] == 1,
         "foreign_key_map": foreign_key_map,
     }
+
+
+def _normalize_company_id(value) -> str | None:
+    if value is None:
+        return None
+    return normalize_ticker(value)
+
+
+def _normalize_year_value(value) -> str | None:
+    if value is None:
+        return None
+    normalized = normalize_year(value)
+    if normalized == PARSE_ERROR:
+        return None
+    return normalized
+
+
+def _normalize_frame_for_db(frame: pd.DataFrame, table_name: str) -> pd.DataFrame:
+    df = frame.copy()
+
+    # Normalize company_id
+    if "company_id" in df.columns:
+        df["company_id"] = df["company_id"].map(_normalize_company_id)
+
+    # Normalize year columns
+    if "Year" in df.columns:
+        df = df.rename(columns={"Year": "year"})
+    if "year" in df.columns:
+        df["year"] = df["year"].map(_normalize_year_value)
+
+    # Boolean normalization
+    if "is_benchmark" in df.columns:
+        df["is_benchmark"] = df["is_benchmark"].astype(int)
+
+    # Align columns with DB schema
+    try:
+        conn = get_connection()
+        cols = [c[1] for c in conn.execute(f"PRAGMA table_info({table_name});").fetchall()]
+        conn.close()
+        df = df[[c for c in df.columns if c in cols]]
+    except Exception:
+        pass
+
+    return df
+
+
+def load_table_into_db(df: pd.DataFrame, table_name: str, connection: sqlite3.Connection) -> tuple[int, int]:
+    """Insert dataframe into table. Returns (rows_loaded, rows_rejected)."""
+    if df is None or df.empty:
+        return 0, 0
+
+    df_to_insert = _normalize_frame_for_db(df, table_name)
+
+    loaded = 0
+    rejected = 0
+
+    try:
+        df_to_insert.to_sql(table_name, connection, if_exists="append", index=False)
+        loaded = len(df_to_insert)
+    except Exception:
+        for _, row in df_to_insert.iterrows():
+            try:
+                row.to_frame().T.to_sql(table_name, connection, if_exists="append", index=False)
+                loaded += 1
+            except Exception:
+                rejected += 1
+
+    return loaded, rejected
+
+
+def run_full_load(output_audit: str | Path = Path("output") / "load_audit.csv", db_path: str | Path = DATABASE_PATH, fresh: bool = True) -> pd.DataFrame:
+    # create fresh database
+    conn = create_database(db_path=db_path, fresh=fresh)
+
+    audit_rows = []
+
+    datasets = load_all_datasets()
+
+    for table in LOAD_ORDER:
+        df = datasets.get(table)
+        rows_read = len(df) if df is not None else 0
+        rows_loaded = 0
+        rows_rejected = 0
+
+        if df is not None:
+            loaded, rejected = load_table_into_db(df, table, conn)
+            rows_loaded = loaded
+            rows_rejected = rejected
+
+        status = "SUCCESS" if rows_loaded > 0 and rows_rejected == 0 else "PARTIAL" if rows_loaded > 0 else "SKIPPED"
+
+        audit_rows.append({
+            "table_name": table,
+            "rows_read": rows_read,
+            "rows_loaded": rows_loaded,
+            "rows_rejected": rows_rejected,
+            "load_status": status,
+        })
+
+    conn.commit()
+    conn.close()
+
+    audit_df = pd.DataFrame(audit_rows)
+    Path(output_audit).parent.mkdir(parents=True, exist_ok=True)
+    audit_df.to_csv(output_audit, index=False)
+    return audit_df
 
 
 if __name__ == "__main__":
